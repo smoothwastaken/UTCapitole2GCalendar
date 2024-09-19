@@ -1,0 +1,9 @@
+{
+  "_general": "General settings",
+  "log": true,
+
+  "_googleCalendar": "Variables for Google Calendar",
+  "googleEmail": "a@gmail.com",
+  "googleCredentialsFile": "credentials/user.json",
+  "googleCalendarName": "Cours"
+}
